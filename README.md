@@ -32,7 +32,7 @@ file structure - middlewares/authMiddleware
 Installation & Setup:
 
 1. Clone the repository
-git clone https://github.com/your-repo.git
+git clone https://github.com/DivyeshCrafts/taskify
 cd your-repo
 
 2. Install dependencies
